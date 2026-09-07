@@ -35,7 +35,7 @@ h1 {
 main {
   background-color: #f2f2f2;
   display: flex;
-  padding:40px 10%;
+  padding:40px 20%;
   gap: 20px;
 }
 
@@ -107,7 +107,7 @@ footer {
 div {
   position: fixed;
   left: 30px;
-  bottom: 77px;
+  bottom: 282px;
   background-color: #272727;
   border-radius: 50%;
   box-shadow: 0px 0px 3px 5px #1d1d1d;
@@ -171,5 +171,11 @@ p#numbaskect {
 
   section {
     margin: 0px 50px;
+  }
+
+  div{
+
+      bottom: 74px;
+
   }
 }
