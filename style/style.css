@@ -107,7 +107,7 @@ footer {
 div {
   position: fixed;
   left: 30px;
-  bottom: 282px;
+  bottom: 88px;
   background-color: #272727;
   border-radius: 50%;
   box-shadow: 0px 0px 3px 5px #1d1d1d;
@@ -173,9 +173,4 @@ p#numbaskect {
     margin: 0px 50px;
   }
 
-  div{
-
-      bottom: 74px;
-
-  }
 }
